@@ -3,7 +3,9 @@
 ### Bridging the gap between the bedside and the benchmark to build next-generation health solutions.
 
 ---
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyotundeOni&show_icons=true&theme=radical" alt="Ayotunde's GitHub Stats" />
+</div>
 <br>
 
 👋  About Me
@@ -37,25 +39,23 @@ I am currently undertaking an intensive 3-month bootcamp to build a "spike" of e
 
 <br>
 
- portfolio showcase section]
-
 💼 My Portfolio: Where Code Meets the Clinic
 
 Here you'll find my work. These projects are not just academic exercises; they are my initial steps in building practical tools to solve real-world medical challenges.
 
 ---
-### 🔬 **Project 1: Predicting Cardiovascular Disease Risk**
-* **Objective:** To build and validate a machine learning model that can predict a patient's 10-year risk of a major cardiovascular event using standard clinical data.
-* **Tech Stack:** `Python`, `Pandas`, `Matplotlib`, `Scikit-learn`, `Jupyter Notebook`
+### 🔬 **[Clinical NER Annotation & QA Toolkit](https://github.com/AyotundeOni/clinical-ner-annotation-toolkit)**
+* **Objective:** A portfolio-ready toolkit demonstrating advanced text annotation operations for clinical Named-Entity Recognition (NER). It features precise parsing of inline XML markup, strict boundary discipline enforcement, multi-format NLP conversions (CoNLL/IOB2, spaCy JSONL), and a deep automated QA pipeline that flags label inconsistencies across the NCBI Disease Corpus.
+* **Tech Stack:** `Python`, `NLP`, `Data Annotation`
 * **Status:** `✅ Completed`
-* [**➡️ View Project Repository & Analysis**](https://github.com/your-username/heart-disease-prediction)
+* [**➡️ View Project Repository**](https://github.com/AyotundeOni/clinical-ner-annotation-toolkit)
 
 ---
-### 🧬 **Project 2: [Your Capstone Project Title, e.g., AI-Powered Malaria Diagnosis from Blood Smears]**
-* **Objective:** [Describe the more complex, unique problem you are solving. e.g., "To develop a Convolutional Neural Network (CNN) capable of accurately identifying malaria parasites in digital microscopy images of blood smears, aiming to create a rapid, low-cost diagnostic aid."]
-* **Tech Stack:** `Python`, `TensorFlow` or `PyTorch`, `OpenCV`, `Pandas`
-* **Status:** `⏳ In Progress`
-* [**➡️ View Project Repository (Coming Soon!)**](https://github.com/your-username/your-capstone-project-repo)
+### 🧬 **[Malaria Cell Annotation & QA Toolkit](https://github.com/AyotundeOni/malaria-annotation-toolkit)**
+* **Objective:** A robust computer vision data annotation pipeline for the BBBC041v1 *P. vivax* malaria blood-smear dataset. Demonstrates complex bounding-box operations, conversion to COCO/YOLO formats, automated scaling/normalization, and a 12-check automated Quality Assurance engine to flag degenerate annotations.
+* **Tech Stack:** `Python`, `Computer Vision`, `JSON Schema`, `Data QA`
+* **Status:** `✅ Completed`
+* [**➡️ View Project Repository**](https://github.com/AyotundeOni/malaria-annotation-toolkit)
 
 ---
 
@@ -63,10 +63,16 @@ Here you'll find my work. These projects are not just academic exercises; they a
 
 🛠️  My Technical Toolbox
 
-* **Languages:** Python
-* **Data Science & ML Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* **Deep Learning:** TensorFlow, Keras
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 * **Clinical Knowledge:** Medical Diagnostics, Physiology, Pathology, Pharmacology
 
 <br>
