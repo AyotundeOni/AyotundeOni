@@ -87,5 +87,5 @@ My immediate goal is to secure a position in a world-class **Master's or PhD pro
 
 I am always open to discussing research, collaborating on projects, or connecting with fellow professionals in the health-tech space. Feel free to reach out!
 
-* **🔗 LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/ayotundeoni)
-* **✉️ Email:** [My E-mail address](ayotunde326@gmail.com)
+* **🔗 LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ayotundeoni)
+* **✉️ Email:** [My E-mail address](mailto:ayotunde326@gmail.com)
